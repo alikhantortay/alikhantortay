@@ -28,7 +28,50 @@
 
 ###
 
-<p align="left">Я Frontend разработчик. Имею опыт разработки социальных и коммерческих проектов на в качестве Frontend разработчика в команде из 10 человек. В основном я занимаюсь разработкой/поддержкой UI-Kit в компаниях, оптимизацией сайтов, исправлением ошибок, создание и поддержкой нового функционала.</p>
+<p align="left">👋 Hi, my name is Alihan
+I am a Middle Frontend Developer working on product web applications with a strong focus on React, Next.js, and TypeScript.
+I have experience building B2B/B2C platforms, implementing complex user flows, multi-step forms, and integrating frontend applications with backend services.
+In my work, I pay special attention to:
+•	clean and maintainable code
+•	performance and user experience
+•	scalability and product-oriented solutions
+I have worked on projects in rental services, media platforms, and corporate systems.
+________________________________________
+🔧 What I’m currently working on
+•	Developing and maintaining production-ready web applications
+•	Implementing complex UI flows and frontend business logic
+•	Integrating frontend with backend APIs (REST, JWT)
+•	Managing client-side state and server data
+•	Adapting web applications for mobile usage (Capacitor)
+________________________________________
+🛠️ Tech Stack
+Frontend
+•	React, Next.js
+•	TypeScript, JavaScript
+•	TailwindCSS, Radix UI
+State & Data
+•	Zustand
+•	TanStack React Query
+Auth & APIs
+•	REST APIs
+•	JWT, NextAuth
+Tools
+•	Git
+•	ESLint, Prettier, Husky
+Other
+•	S3 / MinIO
+•	Capacitor
+________________________________________
+📌 Projects
+•	TapQan — B2B/B2C special equipment rental platform
+•	Ady-Audio — web application for audio file management
+•	Intranet Tourism (Malaysia) — internal corporate portal
+More details can be found in the repositories below 👇
+________________________________________
+📫 Contact
+•	LinkedIn: https://linkedin.com/in/alikhan-tortay
+•	Email: tortayalikhan@gmail.com
+</p>
 
 ###
 
