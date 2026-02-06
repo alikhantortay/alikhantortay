@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Алихан!</h1>
+<h1 align="center">Hi👋 My name is Alikhan!</h1>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
@@ -36,14 +36,14 @@ In my work, I pay special attention to:
 •	performance and user experience
 •	scalability and product-oriented solutions
 I have worked on projects in rental services, media platforms, and corporate systems.
-________________________________________
+<br/>
 🔧 What I’m currently working on
 •	Developing and maintaining production-ready web applications
 •	Implementing complex UI flows and frontend business logic
 •	Integrating frontend with backend APIs (REST, JWT)
 •	Managing client-side state and server data
 •	Adapting web applications for mobile usage (Capacitor)
-________________________________________
+<br/>
 🛠️ Tech Stack
 Frontend
 •	React, Next.js
@@ -61,13 +61,12 @@ Tools
 Other
 •	S3 / MinIO
 •	Capacitor
-________________________________________
+<br/>
 📌 Projects
 •	TapQan — B2B/B2C special equipment rental platform
 •	Ady-Audio — web application for audio file management
 •	Intranet Tourism (Malaysia) — internal corporate portal
-More details can be found in the repositories below 👇
-________________________________________
+<br/>
 📫 Contact
 •	LinkedIn: https://linkedin.com/in/alikhan-tortay
 •	Email: tortayalikhan@gmail.com
